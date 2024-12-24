@@ -5,3 +5,6 @@ It compares the performance of `Summary` across different library versions (`0.1
 mvn clean package
 java -jar target/summary-benchmarks.jar
 ```
+
+## results
+- https://gist.github.com/Shawyeok/4a7ef034baa187b27a9321145d2f05c9
